@@ -2,6 +2,7 @@
 import app from "../app.js";
 import debug from "debug";
 import http from "http";
+import { connect } from "mongoose";
 
 // PORT
 let port = normalizePort(process.env.PORT || "3000");
@@ -9,7 +10,13 @@ app.set("port", port);
 
 // START SERVING
 let server = http.createServer(app);
-let ready = () => console.log("server ready on port " + port);
+let ready = () => {
+  console.log("server ready on port " + port);
+  //connect('link de conexion de mongo')
+  connect(process.env.LINK_DB)
+    .then(() => console.log("database connected"))
+    .catch((err) => console.log(err));
+};
 server.listen(port, ready);
 server.on("error", onError);
 server.on("listening", onListening);

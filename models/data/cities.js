@@ -6,9 +6,9 @@ import User from "../User.js";
 const cities = [
   {
     country: "Cambodia",
-    fundation: "1113-01-01",
+    foundation: "1113-01-01",
     population: 120000,
-    photo: "https://i.im.ge/2022/08/31/OE8zGY.cambodia.png",
+    photo: "https://i.im.ge/2023/08/22/mCcKHy.cambodia.jpg",
     city: "Siem Reap",
     description:
       "Cambodia may be a small country, but it offers everything one needs for a wonderful vacation. Above the many reasons why most visitors return to visit time and again, are two that many would find difficult to match elsewhere. Firstly, Cambodia offers an incredible amount of history and culture and its nature is simply amazing to say the least; ranging from the gorgeous National Parks to the pristine beaches and relaxing islands, the flavours of Cambodia are not only in the exotic cuisines, but also its overall ambience.",
@@ -19,9 +19,9 @@ const cities = [
   },
   {
     country: "Indonesia",
-    fundation: "1945-08-17",
+    foundation: "1945-08-17",
     population: 4230051,
-    photo: "https://i.im.ge/2022/08/31/OE8kcM.baliTemple.png",
+    photo: "https://i.im.ge/2023/08/22/mCcboc.baliTemple.jpg",
     city: "Bali",
     description:
       "There is no other place like Bali in this world. A magical blend of culture, people, nature, activities, weather, culinary delights, nightlife, and beautiful accommodation. Bali is rated as one of the best travel destinations in the world by countless websites, review portals, and travel magazines each year - for very good reasons. Whatever your age, background, budget or interest, there is something great for everyone to explore and discover. And that's a promise.",
@@ -32,9 +32,9 @@ const cities = [
   },
   {
     country: "Tahiti",
-    fundation: "1722-01-01",
+    foundation: "1722-01-01",
     population: 10605,
-    photo: "https://i.im.ge/2022/08/31/OE8fih.boraBora.png",
+    photo: "https://i.im.ge/2023/08/22/mCc8Bx.boraBora.jpg",
     city: "Bora Bora Island",
     description:
       "Bora Bora island will make you feel love at first sight. With ocean views  of turquoise waters resembling an artist's palette of bright blues and greens, romantics from around the world appreciate Bora Bora's, lush, tropical vegetation circling the perimeter of the island and the valleys of Mount Otemanu blossom with hibiscus. Known for gorgeous luxury resorts and numerous adventurous activities, a Bora Bora vacation has something for everyone. Whether you like getting your adrenaline pumping or prefer a relaxing day at the beach, the Bora Bora things to do options are endless. ",
@@ -45,9 +45,9 @@ const cities = [
   },
   {
     country: "Venezuela",
-    fundation: "1764-05-22",
+    foundation: "1764-05-22",
     population: 407452,
-    photo: "https://i.im.ge/2022/08/31/OE8VX8.canaimaBolivar.png",
+    photo: "https://i.im.ge/2023/08/22/mCc3ZT.canaimaBolivar.jpg",
     city: "Bolívar",
     description:
       "Canaima National Park is in the Gran Sabana region of Venezuela, in the southern Bolivar State. The park is a UNESCO World Heritage site. Flat, grassy savannas with dramatic tepuis (table-top mountains), waterfalls and moriche palms. Angel Falls is located on the side of the largest of the Venezuela's tepuis known as Auyan-tepui. There are no overland routes to the settlement of Canaima. The only access is by air. Avior and Rutaca fly to and from Ciudad Bolívar and Caracas.Access to the Sector Occidental is by air into villages like Canaima. However, the Sector Oriental has road access via the Troncal 10. The new El Dorado-Luepa road to Santa Elena de Uairen connects the east of the park with the Brazilian frontier and a branch of it reaches the small village of Kanavayen, which is close to the spectacular Aponwao Falls.",
@@ -58,9 +58,9 @@ const cities = [
   },
   {
     country: "Japan",
-    fundation: "1952-01-01",
+    foundation: "1952-01-01",
     population: 104000000,
-    photo: "https://i.im.ge/2022/08/31/OE8ZKX.japanHonshuIsland.png",
+    photo: "https://i.im.ge/2023/08/22/mCcf1S.japanHonshuIsland.jpg",
     city: "Honshu Island",
     description:
       "Imagine Japan and you're probably picturing the central island of Honshu. Tokyo, Kyoto, Osaka and Hiroshima; Mount Fuji, Lake Biwa and the Japanese Alps; neon and skyscrapers, geisha districts and famous temples - all of these can be found on Honshu. Japan's main island, it's also the country's largest and most populous. More than 100 million people are squeezed into pockets of flat land among the many volcanoes which form a long, mountainous arc from the northeast tip to the southwestern end. The perfect 3,776 meter peak of Mount Fuji, easily spotted from Tokyo on a clear day, reigns over them all.",
@@ -71,9 +71,9 @@ const cities = [
   },
   {
     country: "Maldives Republic",
-    fundation: "1965-07-26",
+    foundation: "1965-07-26",
     population: 540542,
-    photo: "https://i.im.ge/2022/08/31/OE8p7D.maldives.png",
+    photo: "https://i.im.ge/2023/08/22/mCcvhK.maldives.jpg",
     city: "Maldives Islands",
     description:
       "The Maldives is a nation of islands in the Indian Ocean, that spans across the equator. The country is comprised of 1192 islands that stretch along a length of 871 kilometers. While the country covers an area of approximately 90,000 square kilometers, only 298 square kilometers of that is dry land. The islands are grouped into a double chain of 26 atolls. The country's unique geography mesmerizes the visitor. Reefs that offer bands of color, tiny jewel-like islands rimmed with the whitest of soft sand surrounded by the clearest shallow waters that one can imagine. Only 200 of the islands are inhabited, and a select few on each of the atolls are resorts and some of the islands are used for industry and agriculture. The beauty of the Maldives is not only above the water. The Maldives is home to about five percent of the planet's reefs that comes with an explosion of color contributed by soft and hard corals that form them. The reefs are home to a thousand species of fish. Lured by the rich nutrients that flow in with the currents, large pelagic fishes such as manta rays and whale sharks also make the Maldives their home.",
@@ -84,9 +84,9 @@ const cities = [
   },
   {
     country: "Argentina",
-    fundation: "1927-12-07",
+    foundation: "1927-12-07",
     population: 6143,
-    photo: "https://i.im.ge/2022/08/31/OE8vA4.peritoMorenoCalafate.png",
+    photo: "https://i.im.ge/2023/08/22/mCckmz.peritoMorenoCalafate.jpg",
     city: "El Calafate",
     description:
       "El Calafate lies 316 kilometers away from Río Gallegos, capital of the Province of Santa Cruz, and it has been named after the small bush called calafate, typical of southern Patagonia, which bears an ideal fruit to make jam. On the border of the Patagonian steppe, the village is an important tourist destination that has become worldwide famous in the last few years. Most circuits towards the glaciers start in the town, especially the well-known Perito Moreno Glacier, which is together with the Iguazú Falls, one of the most renowned Argentine natural wonders. Its luxurious hotels, its new and functional cabins and its typical restaurants where the Patagonian lamb is the great protagonist, have turned El Calafate into one worth visiting world destination.",
@@ -97,9 +97,9 @@ const cities = [
   },
   {
     country: "Australia",
-    fundation: "1788-01-26",
+    foundation: "1788-01-26",
     population: 5312000,
-    photo: "https://i.im.ge/2022/08/31/OE8JpC.sidney.png",
+    photo: "https://i.im.ge/2023/08/22/mCczZ6.sidney.jpg",
     city: "Sydney",
     description:
       "Sydney is home to must-visit icons like the Sydney Harbour Bridge and Opera House, but this Harbour City is constantly evolving. New rooftop bars, theatre shows and designer shops pop up at every turn, and the urban excitement is perfectly balanced by afternoons spent lying on the sand. Plus, with diverse destinations at its doorstep, Sydney is the perfect base for day trips and weekends away.",
@@ -110,9 +110,9 @@ const cities = [
   },
   {
     country: "Mexico",
-    fundation: "1325-06-20",
+    foundation: "1325-06-20",
     population: 212500,
-    photo: "https://i.im.ge/2022/08/31/OE842q.tenochtitlan.png",
+    photo: "https://i.im.ge/2023/08/22/mCcchL.tenochtitlan.jpg",
     city: "Tenochtitlan",
     description:
       "The tale of Tenochtitlan is well known - founded in 1325, it rose to be the capital of the Aztec empire and the largest city in the pre-Columbian world. It was captured by the Spanish in 1521, after which Cortés directed the systematic destruction and levelling of the city. However he didn't quite destroy the city - ruins have been excavated and can now be seen in the heart of modern day Mexico City, creating one of the country's most visited tourist attractions and one of the strongest testaments to the importance of the Aztec empire.",
@@ -123,10 +123,10 @@ const cities = [
   },
   {
     country: "Chile",
-    fundation: "1928-01-01",
+    foundation: "1928-01-01",
     population: 165593,
     photo:
-      "https://i.im.ge/2022/08/31/OE8Bwp.torresDelPaineMagallanesRegion.png",
+      "https://i.im.ge/2023/08/22/mCcZyJ.torresDelPaineMagallanesRegion.jpg",
     city: "Magallanes Region",
     description:
       "Torres del Paine National Park forms part of the national system of protected forested areas of Chile. It attracts a large numbers of visitors from all around the world most of whom are foreign tourists. A distinctive feature in the Park is the granite peaks of the Paine Massif or mountain range. The peaks rise to a height of 2,500m above the sea level and is joined by the Cuernos del Paine. The area boasts of rivers, valleys, lakes, and glaciers. Notable lakes in the area include Pehoé, Grey, Sarmiento, and Nordenskiöld. Glaciers including the Pingo, Grey, and Tyndall are all located in the southern part of the Patagonia field. Visitors can have gem of a time here as they can find plenty of fun and exciting things to do in Torres del Paine National Park.",
@@ -137,9 +137,9 @@ const cities = [
   },
   {
     country: "Africa",
-    fundation: "1964-10-24",
+    foundation: "1964-10-24",
     population: 19473125,
-    photo: "https://i.im.ge/2022/08/31/OE8GKP.victoriaFallsZambia.png",
+    photo: "https://i.im.ge/2023/08/22/mCcpXF.victoriaFallsZambia.jpg",
     city: "Zambia",
     description:
       "The Victoria falls are the largest mass of falling water on earth. The Victoria falls are twice as high as the Niagara falls in North America. The closest in size to the Victoria falls are the Iguazu Falls in Brazil and Argentina. The mist from the falls can be seen from a distance of over about fifty kilometers while the noise from the thundering water can be heard from a distance of forty kilometers. It is for this reason that the locals call it Mosi-oa-Tunya - meaning smoke that thunders. The combined width of the falls are 5,604 feet while the height is 354 feet. Activities in and around Victoria fallsDuring the rainy season, the water and spray (from the falls) increase in intensity and it becomes difficult to see its whole face and foot. Once the dry season kicks in and the floods subside, it becomes possible to observe the rocky face more clearly and to also check out the bottom gorges. One of the most famous sections of the falls is the “Devil's Pool” - located at the edge and where the water begins to drop. Countless tourists take the risk of swimming in this particular section despite the risk of falling over the edge.",
@@ -150,9 +150,9 @@ const cities = [
   },
   {
     country: "Egypt",
-    fundation: "0969-01-01",
+    foundation: "0969-01-01",
     population: 9540000,
-    photo: "https://i.im.ge/2022/08/31/OERMl1.salahCitadelCairoCity.png",
+    photo: "https://i.im.ge/2023/08/22/mCcgYG.salahCitadelCairoCity.jpg",
     city: "Cairo Citadel",
     description:
       "Situated at the top of the Mokattam Hill, the Citadel overlooks Cairo since the early Middle Ages. Despite a brief period under the British occupation during the great war, the Citadel remains almost unchanged since the last great modifications made by Muhammad Ali. Its large architecture features two large enclosures on the high platform and a lower one between the western boundary and the open area. There are three main gates. These are inspired by the medieval gates of Cairo. Furthermore, there is a large wall dividing the upper platform from the lower area. Most of the areas are open to the public and the open courtyard of the Muhammad Ali Mosque is one of the best place to enjoy a bird-eye view of  old Cairo.",
@@ -160,6 +160,58 @@ const cities = [
       "Visiting the Cairo Citadel is one of the best things to do around the area of Islamic Cairo",
     featuredLocation: "Salah Al Din",
     admin_id: "cin@mh.com",
+  },
+  {
+    country: "Argentina",
+    foundation: "1536-04-02",
+    population: 3120000,
+    photo: "https://i.im.ge/2023/08/22/mCR6YK.buenosAires.jpg",
+    city: "Buenos Aires",
+    description:
+      "Buenos Aires, the enchanting capital of Argentina, is a city that dances to its own rhythm. It's a place where tango melodies fill the air, where neighborhoods hold stories of resilience and creativity, and where the aroma of freshly brewed mate invites you to share in local traditions. From the iconic Obelisco to the colorful houses of La Boca, Buenos Aires offers an ever-evolving tapestry of culture, art, and warmth that embraces all who visit.",
+    smalldescription:
+      "Experience the vibrant energy of Buenos Aires, a city that embraces you with tango rhythms, cultural treasures, and open arms.",
+    featuredLocation: "The Plaza de Mayo",
+    admin_id: "fran@mh.com",
+  },
+  {
+    country: "Argentina",
+    foundation: "1573-07-06",
+    population: 2106000,
+    photo: "https://i.im.ge/2023/08/22/mCZTJP.cordoba.jpg",
+    city: "Córdoba",
+    description:
+      "Córdoba, often referred to as the Heartland of Argentina, is a historic city with a blend of colonial architecture and modern culture. Its roots trace back to the 16th century, when Spanish colonizers founded it as one of the first cities in South America. Today, Córdoba is a bustling metropolis that preserves its past while embracing innovation and progress. With its numerous universities, Córdoba is known as the 'University City' and is a hub of intellectual activity. The city's vibrant cultural scene is enriched by theaters, museums, and art galleries. The Jesuit Block and Estancias of Córdoba, a UNESCO World Heritage Site, stands as a testament to the city's historical and architectural significance. Beyond its urban attractions, Córdoba is surrounded by picturesque landscapes, including the Sierras de Córdoba mountain range. Outdoor enthusiasts can enjoy activities like hiking, horseback riding, and mountain biking. The city's friendly atmosphere, combined with its blend of history, culture, and natural beauty, make it a captivating destination for both locals and visitors alike.",
+    smalldescription:
+      "Explore the captivating blend of history, culture, and natural beauty in Córdoba. From its colonial architecture to the stunning Sierras de Córdoba, the city offers a vibrant urban scene and outdoor adventures.",
+    featuredLocation: "Plaza San Martín",
+    admin_id: "cin@mh.com",
+  },
+  {
+    country: "Brazil",
+    foundation: "1565-03-01",
+    population: 6320000,
+    photo: "https://i.im.ge/2023/08/22/mCRwhF.rioDeJaneiro.jpg",
+    city: "Rio de Janeiro",
+    description:
+      "Río de Janeiro is a city of contrasts, where the vibrant rhythm of samba intertwines with the tranquil embrace of sandy beaches. From the towering Christ the Redeemer statue atop Corcovado Mountain to the lively colors of the Carnival, every corner of Rio is infused with a unique zest for life. Feel the warm sand beneath your feet on Copacabana Beach, hike through the lush Tijuca Forest, and savor the flavors of Brazilian cuisine. Río de Janeiro captures the essence of Brazil's culture, natural beauty, and celebration of life.",
+    smalldescription:
+      "Experience the vibrant energy of Río de Janeiro, where iconic landmarks, golden beaches, and the rhythm of samba create an unforgettable atmosphere.",
+    featuredLocation: "Copacabana",
+    admin_id: "igna@mh.com",
+  },
+  {
+    country: "Argentina",
+    foundation: "1902-05-03",
+    population: 146000,
+    photo: "https://i.im.ge/2023/08/22/mCRmo6.bariloche.jpg",
+    city: "Bariloche",
+    description:
+      "Bariloche, surrounded by the Andes and located by a stunning lake, is a paradise for nature lovers and chocolate enthusiasts. The city's alpine architecture and natural beauty are complemented by a range of outdoor activities, including hiking, skiing, and water sports. Enjoy panoramic views from the top of Cerro Campanario, take a boat trip on Nahuel Huapi Lake, and indulge in the renowned Swiss-style chocolate. Bariloche's charm lies in its blend of adventure and relaxation against a backdrop of breathtaking landscapes.",
+    smalldescription:
+      "Discover the beauty of Bariloche, where adventure and relaxation blend perfectly amidst the enchanting Andes.",
+    featuredLocation: "Nahuel Huapi Lake",
+    admin_id: "igna@mh.com",
   },
 ];
 

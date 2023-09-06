@@ -8,7 +8,7 @@ import destroy from "../controllers/users/destroy.js";
 let router = express.Router();
 
 //CREATE
-router.post("/", create);
+router.post("/signup", create);
 
 //READ
 router.get("/", read);

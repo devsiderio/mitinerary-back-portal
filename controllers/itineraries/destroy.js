@@ -1,17 +1,15 @@
 import Itinerary from "../../models/Itinerary.js";
 
-export default async (req, res) => {
+export default async (req, res, next) => {
   try {
-    let deletedItinerary = await Itinerary.findByIdAndDelete(req.params.d_id);
+    let { id } = req.params;
+    let one = await Itinerary.findByIdAndDelete(id);
     return res.status(200).json({
       success: true,
       message: "Itinerary deleted!",
-      response: deletedItinerary._id,
+      response: one._id,
     });
   } catch (error) {
-    return res.status(400).json({
-      success: false,
-      message: "Itinerary not deleted",
-    });
+    next(error);
   }
 };

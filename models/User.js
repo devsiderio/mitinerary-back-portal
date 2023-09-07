@@ -9,7 +9,7 @@ let schema = new Schema({
   photo: {
     type: String,
     default:
-      "https://www.cinemascomics.com/wp-content/uploads/2020/06/poder-darth-vader.jpg",
+      "https://ui-avatars.com/api/?name=U&&background=random&&rounded=true&&bold=true&&format=svg",
   },
   password: { type: String, required: true },
   country: { type: String, required: true },

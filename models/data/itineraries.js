@@ -45,7 +45,7 @@ const itineraries = [
     city_id: "Bora Bora Island",
     price: 120,
     duration: 240,
-    tags: ["#beach", "#adventure", "#treking"],
+    tags: ["#beach", "#adventure", "#trekking"],
     photo:
       "https://images-ext-1.discordapp.net/external/ENkeAeE0mgvgdWCKzVzYC2NQh-yhcC2FnBNkEqlzMpA/https/www.gototravelguides.net/images/photos/borabora_P1000780.jpg?width=901&height=676",
   },
@@ -54,7 +54,7 @@ const itineraries = [
     city_id: "Bolívar",
     price: 200,
     duration: 480,
-    tags: ["#", "#", "#"],
+    tags: ["#sky", "#nature", "#wonderful"],
     photo:
       "https://dam.ngenespanol.com/wp-content/uploads/2021/04/GettyImages-139812035.jpg",
   },
@@ -63,9 +63,9 @@ const itineraries = [
     city_id: "Bolívar",
     price: 200,
     duration: 120,
-    tags: ["#", "#", "#"],
+    tags: ["#waterfalls", "#nature", "#amazing"],
     photo:
-      "http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcSybaIKh9qn2LWwkRlWHc694clhB4kB7t-VxxbLMQd14usIcjB3XzKwQnz7huOfgXz1",
+      "https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcSybaIKh9qn2LWwkRlWHc694clhB4kB7t-VxxbLMQd14usIcjB3XzKwQnz7huOfgXz1",
   },
   {
     name: "Honshu Tour",
@@ -117,7 +117,7 @@ const itineraries = [
     city_id: "Zambia",
     price: 20,
     duration: 160,
-    tags: ["#tradition", "#dance", "#happyness"],
+    tags: ["#tradition", "#dance", "#happiness"],
     photo:
       "https://gpjs3bucket.s3.amazonaws.com/wp-content/uploads/2018/08/26141032/GPJNew_Zambia_PP_Crowds-1_Web.jpg",
   },

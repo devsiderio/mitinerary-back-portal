@@ -14,7 +14,7 @@ let ready = () => {
   console.log("server ready on port " + port);
   //connect('link de conexion de mongo')
   connect(process.env.LINK_DB)
-    .then(() => console.log("database connected"))
+    .then(() => console.log("Database connected succesfully :)"))
     .catch((err) => console.log(err));
 };
 server.listen(port, ready);

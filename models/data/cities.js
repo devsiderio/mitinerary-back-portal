@@ -224,7 +224,7 @@ async function createCities(arrayCities) {
       city.admin_id = admin_id;
       await City.create(city);
     }
-    console.log("done!");
+    console.log("Cities created succesfully :)");
   } catch (error) {
     console.log(error);
   }

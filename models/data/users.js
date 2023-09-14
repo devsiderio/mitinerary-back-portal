@@ -6,29 +6,30 @@ const users = [
   {
     name: "Ignacio",
     lastName: "Borraz",
-    mail: "igna@mh.com",
+    country: "Argentina",
     photo:
       "https://ui-avatars.com/api/?name=I+B&&background=random&&rounded=true&&bold=true&&format=svg",
-    password: "Hola1234",
-    country: "Argentina",
+    mail: "igna@mh.com",
+    password: "$2b$10$kzhXCgDUEIvz4U.CSA0DeeR6co0k.2udiWxP6J6icZv780ortJIZO",
   },
   {
     name: "Cinthia",
     lastName: "Di Risio",
-    mail: "cin@mh.com",
+    country: "Argentina",
     photo:
       "https://ui-avatars.com/api/?name=C+D&&background=random&&rounded=true&&bold=true&&format=svg",
-    password: "Hola1234",
-    country: "Argentina",
+
+    mail: "cin@mh.com",
+    password: "$2b$10$B/r9a1tE.OsnmM/i98ogOe9zTrYSGN9eyWY4810wsGqzP4aKK4xzi",
   },
   {
     name: "Franco",
     lastName: "Sosa",
-    mail: "fran@mh.com",
+    country: "Argentina",
     photo:
       "https://ui-avatars.com/api/?name=F+S&&background=random&&rounded=true&&bold=true&&format=svg",
-    password: "Hola1234",
-    country: "Argentina",
+    mail: "fran@mh.com",
+    password: "$2b$10$BDNXr2Rxc3hKVIlhliImNe8/lP/hPk.kxbfOHwCf.LrlkXhCeMW2G",
   },
 ];
 
